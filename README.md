@@ -1,9 +1,9 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite + DLUI
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+本项目是基于 Vue 3 + TypeScript + Vite + DLUI 的模板项目；
 
-## Recommended Setup
+## 文档资源：
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
-
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+[DLUI](https://www.xuanmo.xin/-/dl-ui)
+[Vue](https://cn.vuejs.org)
+[Vite](https://cn.vitejs.dev)
